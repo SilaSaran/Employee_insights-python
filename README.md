@@ -7,6 +7,7 @@ The goal is to preprocess, analyze, and visualize key insights from the data, in
 This project demonstrates proficiency in Python programming, data analysis, and storytelling with real-world datasets.
 
 Tasks Covered:
+
 1: Preprocessing
 
 Filled missing values in string columns like "College" with "Unknown".
