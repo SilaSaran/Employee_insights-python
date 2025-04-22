@@ -50,43 +50,34 @@ shedding light on employee distribution, salary expenditure, and team dynamics.
 
 Below are the main insights:
 
-1. Employee Distribution Across Teams
+a. Employee Distribution Across Teams
 
 The analysis reveals that certain teams have a significantly higher number of employees compared to others.
-
 The Boston Celtics and Utah Jazz emerge as two of the most populated teams.
-
 The percentage split highlights a disparity in workforce distribution, indicating some teams invest more in hiring than others.
 
-3. Segregation of Employees by Position
+b. Segregation of Employees by Position
 
 Positions such as Point Guard (PG) and Shooting Guard (SG) have a higher count of employees, suggesting a trend of investment in backcourt players.
-
 Certain teams prioritize specific positions over others, potentially influenced by team strategy or salary budget constraints.
 
-5. Predominant Age Group
+c. Predominant Age Group
 
 The most dominant age group among employees is 20-30 years, reflecting a preference for younger talent.
-
 Fewer employees fall into the 40+ age range, indicating that teams may focus on recruiting players in their prime years.
-
 The age distribution suggests that experience and potential growth influence hiring trends.
 
-7. Highest Salary Expenditure by Team and Position
+d. Highest Salary Expenditure by Team and Position
 
 Analysis of salary expenditure reveals that certain teams and positions consume the largest portion of the payroll budget.
-
 The highest-paying position aligns with experienced and highly skilled roles such as Centers (C) or Power Forwards (PF), indicating a financial focus
 on players crucial to the team's structure.
-
 A significant salary gap exists between positions, showing that certain roles command a higher pay scale based on demand and performance expectations.
 
-9. Correlation Between Age and Salary
+e. Correlation Between Age and Salary
 
 There is a positive correlation between age and salary, meaning older employees tend to earn higher salaries.
-
 This suggests that experience plays a role in salary determination, with seasoned employees being compensated for their expertise.
-
 Younger employees tend to start with lower salaries, reinforcing the trend of incremental salary growth based on tenure.
 
 Visual Interpretation:
