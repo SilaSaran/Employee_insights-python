@@ -42,7 +42,9 @@ A well-documented Jupyter Notebook containing Python code for preprocessing, ana
 
 Graphical insights highlighting trends and patterns.
 
+
 Data Story: Insights from Employee Analysis
+
 
 After carefully analyzing the dataset, several key trends, patterns, and correlations have been uncovered,
 
